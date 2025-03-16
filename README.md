@@ -1,4 +1,4 @@
-# Murli - Simplified Version
+# Murli - 2
 
 This is a simplified version of the Murli application that provides guidance from Lord Krishna based on the Bhagavad Gita. This version uses only HTML, CSS, and JavaScript without any frameworks or libraries.
 
@@ -16,15 +16,10 @@ This is a simplified version of the Murli application that provides guidance fro
    - `index.html`
    - `styles.css`
    - `script.js`
-   - `murli.png` (logo image)
    - `mahabharat.mp3` (background music)
 
-2. For the logo, you'll need to replace the placeholder `murli.png` with an actual image. You can:
-   - Use the original logo from the React version
-   - Create your own logo
-   - Use a free image from a stock photo site
-
-3. Open `index.html` in a web browser to use the application.
+2. Open `index.html` in a web browser to use the application.
+3. Open `script.js` and add your own API Key.
 
 ## How It Works
 
